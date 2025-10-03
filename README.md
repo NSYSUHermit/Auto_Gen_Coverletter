@@ -18,7 +18,6 @@ cover-letter-generator/
 ├── prompt.txt                # The prompt template for the AI
 ├── README.md                 # This file
 ├── .env                      # For storing your API key (create this yourself) 
-format like: GOOGLE_API_KEY="AIzaSyArfu3X8WmOGyZyaPiCCFqIQ1dNyh29AE7"
 ├── input/
 │   ├── my_resume.txt         # Your resume file
 │   └── job_description.txt   # The job description file
