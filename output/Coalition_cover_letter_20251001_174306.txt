@@ -1,0 +1,31 @@
+[Your Name] - Hung-Ju (Henry) Lin
+[Your Address] - (Currently Tempe, Arizona for ASU)
+[Your Phone Number] - +1-623-290-5568
+[Your Email] - x5060812@gmail.com
+[Your LinkedIn Profile URL] - linkedin.com/in/henry-lin-57b796187
+[Your GitHub Profile URL] - github.com/NSYSUHermit
+
+[Date]
+
+Hiring Manager
+Renewals Engineering Team
+Coalition
+[Coalition's Address - if known, otherwise omit]
+
+Dear Hiring Manager,
+
+It is with profound enthusiasm that I submit my application for the Backend Software Engineer position within Coalition’s Renewals Engineering Team, as advertised. Having closely followed Coalition's innovative approach to "Active Insurance" and its mission to "Protect the Unprotected," I am particularly impressed by your commitment to preventing digital risk and enhancing client satisfaction through advanced technology. My academic background and professional experience, especially in developing robust backend services and scalable API solutions, are, I believe, precisely aligned with the requirements for this role.
+
+During my tenure as a Software Engineer Intern at Dell Technologies and a Software Development Engineer at ASUS, I gained significant practical experience in developing and deploying high-quality backend services. At Dell, I was responsible for designing a Django-based full-stack web interface and building a Retrieval-Augmented Generation (RAG) backend utilizing Ollama LLM and ChromaDB for scalable retrieval and contextual summarization. This work directly involved creating efficient and scalable interfaces, which I understand is a core responsibility for this role. Furthermore, my experience at ASUS included building robust RESTful APIs and tools to integrate AI outputs with enterprise systems, leveraging both PostgreSQL and MongoDB databases, which has given me a strong foundation in designing interfaces that are both functional and joyful to consume.
+
+My background also encompasses a strong focus on engineering excellence and collaborative development. I have actively worked in Scrum teams, managing the full SDLC with two-week sprints, daily stand-ups, and retrospectives, ensuring timely and effective software delivery. This agile methodology, combined with my proficiency in using Docker for container-based development and deployment, aligns well with your team's emphasis on a stable and repeatable software development lifecycle. I am also adept at developing comprehensive test cases and enhancing automated testing suites, skills I am confident will contribute to maintaining the high standards of Coalition’s systems.
+
+The Renewals Engineering Team’s focus on leveraging advanced technologies and data analytics to assess risks and personalize solutions strongly resonates with my own project experiences. My co-authored patent on "Signal abnormality detection system" and my work on segmentation and anomaly detection models at ASUS, which improved model performance by 10 percent, demonstrate my capability in risk assessment and proactive problem-solving. I am eager to apply my skills in developing sophisticated, data-driven solutions to enhance Coalition's renewal processes and solidify its leadership in cyber insurance services.
+
+I am confident that my blend of practical experience in Python backend development, API design, agile methodologies, and my commitment to engineering excellence makes me a strong candidate for this position. I am very much looking forward to the opportunity to discuss how my skills and passion for technology can contribute to Coalition's continued success and its vital mission.
+
+Thank you for your time and consideration.
+
+Sincerely,
+
+Hung-Ju (Henry) Lin

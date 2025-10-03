@@ -1,0 +1,11 @@
+Based on the resume and job description below, write a professional cover letter. Start the letter directly with the salutation (e.g., "Dear Hiring Manager,"). Do not include any contact information headers or dates.
+
+And write it like a non native speaker.
+
+--- RESUME ---
+{resume}
+
+--- JOB DESCRIPTION ---
+{job_description}
+
+--- COVER LETTER ---

@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my profound interest in the Python Developer position, as advertised on [Platform where you saw the advertisement]. My extensive experience in Python development, coupled with my robust understanding of web frameworks and front-end technologies, aligns perfectly with the requirements of this role.
+
+During my four years as a Software Development Engineer at ASUS, and more recently as a Software Engineer Intern at Dell Technologies, I have acquired proven expertise in Python development. I am particularly proficient with the Django web framework, which I utilized to design a full-stack web interface for critical applications, including uploading, querying, and visualizing meeting transcripts. My resume further demonstrates my capabilities in developing scalable backend components and integrating them with various systems, consistently prioritizing responsiveness and overall performance.
+
+My experience extends to developing powerful backend solutions. At Dell, I successfully built a Retrieval-Augmented Generation (RAG) backend using Ollama LLM on WSL, ensuring scalable data retrieval and contextual summarization. Furthermore, I have developed numerous Python automation tools, such as consolidating BIOS issue tickets, and engineered RESTful APIs to seamlessly integrate AI outputs with enterprise systems, leveraging PostgreSQL and MongoDB for efficient data management. These experiences have equipped me with strong skills in designing robust and high-performing backend architectures.
+
+I am well-versed in front-end technologies, including HTML/CSS and JavaScript, which enabled me to develop intuitive data visualization front-ends during my tenure at ASUS and integrate user-facing elements effectively. My work on Django-based full-stack interfaces also required a holistic understanding of both front-end presentation and backend logic. Moreover, my experience working in Agile Scrum teams at ASUS, delivering software across the full SDLC with two-week sprints, ensures I am a collaborative and adaptable team member capable of contributing effectively from day one.
+
+I am genuinely enthusiastic about the opportunity to contribute my skills to your team. My solid foundation in Python, coupled with practical experience in Django, backend development, and familiarity with front-end technologies, makes me a highly suitable candidate for this Python Developer role. I am eager to learn more about this position and discuss how my qualifications can benefit your organization. Thank you for your time and consideration.
+
+Sincerely,
+Hung-Ju (Henry) Lin

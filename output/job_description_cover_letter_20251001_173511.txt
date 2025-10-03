@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my keen interest in the Python Developer position, which I found advertised on [Platform where job was seen - e.g., LinkedIn, company website]. With my proven experience as a Python Developer and strong background in web frameworks, I am confident that my qualifications perfectly align with your team's requirements.
+
+My professional journey has provided me with extensive opportunities to develop and maintain robust, scalable Python applications. At Dell Technologies, as a Software Engineer Intern, I specifically designed a **Django-based full-stack web interface** for meeting transcript management, showcasing my capability in both back-end and front-end development. My responsibilities also included building a Retrieval-Augmented Generation (RAG) backend utilizing Ollama LLM, ensuring **scalable retrieval** and contextual summarization, which directly reflects your need for effective and scalable code.
+
+Furthermore, during my tenure as a Software Development Engineer at ASUS, I was deeply involved in developing and deploying AI solutions. This role required me to build **RESTful APIs** and tools for seamless integration with enterprise systems, utilizing databases like **PostgreSQL and MongoDB** for efficient data management. I also gained valuable experience in implementing **data visualization front-ends**, demonstrating my familiarity with integrating user-facing elements into applications, complementing my knowledge of **JavaScript, HTML/CSS**. My focus was always on improving system responsiveness and overall performance, like reducing processing time by 40% in one of my projects.
+
+I possess strong expertise in Python, complemented by practical experience with web frameworks such as Django, as highlighted in my resume. My background also includes working within Agile/Scrum methodologies, which ensures a structured and efficient development process. I am passionate about crafting high-quality, maintainable code and am eager to contribute my skills to your team.
+
+Thank you for considering my application. I am very enthusiastic about the possibility of contributing to your company and am available for an interview at your earliest convenience to discuss how my skills and experiences can benefit your organization.
+
+Sincerely,
+Hung-Ju (Henry) Lin

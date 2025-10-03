@@ -1,0 +1,62 @@
+About the job
+About Us
+
+Coalition is the world's first Active Insurance provider designed to help prevent digital risk before it strikes. Founded in 2017, Coalition combines comprehensive insurance coverage and innovative cybersecurity tools to help businesses manage and mitigate potential cyberattacks.
+
+Opportunities to make an impact with bold thinking are real—and happening daily at Coalition.
+
+About The Role
+
+You’ll be writing backend services and helping design systems that manage a complex set of business rules and allow those rules to map to deterministic outcomes. You enjoy making sure that all the logic branches of your system are well understood and tested and you focus on engineering excellence. You enjoy building APIs that are joyful to consume and making sure everyone understands the lifecycle events of the services you build.
+
+Renewals Engineering Team is a dedicated and forward-thinking unit committed to revolutionizing the renewal process. Their primary goals include significantly increasing the renewal rate and ensuring a seamless, hassle-free experience for our clients. By integrating advanced technologies and data analytics, this team excels in crafting personalized insurance solutions that adapt to the evolving cyber security landscape. Their expertise is instrumental in not only accurately assessing risks but also in proactively addressing clients' needs. With a strong emphasis on client satisfaction and operational efficiency, the Renewals Engineering Team plays a crucial role in solidifying our firm's position as a leader in cyber insurance services.
+
+Responsibilities
+
+Build out high quality APIs and web services providing a scalable, efficient and tailored set of interfaces
+Design, document and deploy public interfaces that are a joy to consume
+Work with cross functional stakeholders including product, design, sales, and others to help break down business requirements into actionable plans
+Collaborate with Site Reliability Engineer (SRE) to develop and deliver applications in a repeatable, stable and joyful software development lifecycle
+Develop test cases and enhance automated testing suite to ensure engineering excellence
+Make Coalition a better place by taking on the unseen, unforeseen and important items that come up along the way
+
+Skills And Qualifications
+
+API and service development in Python and/or Go
+Production tested cloud-native development fundamentals including horizontal scaling, 12-factor application design, security fundamentals like OWASP, etc.
+Assessing software errors with tools like Sentry, DataDog, Jaeger/Zipkin, GreyLog or Appdynamics
+Container-based deployment and development with Docker
+Experience using multiple transports and formats (e.g. REST, gRPC, GraphQL)
+Use of source control - git, svn or perforce
+Working with an agile team using collaborative development tools - Atlassian Suite, GitHub or GitLab
+0-2+ years of blended internship and/or professional development experience
+Computer Science or Engineering degree - related technical discipline or equivalent work experience
+
+Nice-to-have skills:
+
+Production experience serving large user bases (100,000+)
+Development in distributed, event-driven and message-driven architectures
+
+Compensation
+
+Our compensation reflects the cost of labor across several US geographic markets. The US base salary for this position ranges from $99,000/year in our lowest geographic market up to $130,000/year in our highest geographic market. Consistent with applicable laws, an employee's pay within this range is based on a number of factors, which include but are not limited to relevant education, skills, job-related knowledge, qualifications, work experience, credentials, and/or geographic location. Your recruiter can share more on target salary for your location during the interview process. Coalition, Inc. reserves the right to modify this range as needed.
+
+Perks
+
+100% medical, dental and vision coverage
+Flexible PTO policy
+Annual home office stipend and WeWork access
+Mental & physical health wellness programs (One Medical, Headspace, Wellhub, and more)!
+Competitive compensation and opportunity for advancement
+
+Why Coalition?
+
+Work at Coalition is centered on the joint mission to Protect the Unprotected. We have built a remote-first, highly inclusive culture that welcomes people from diverse backgrounds. We trust each other to take responsibility, share ownership of outcomes, and put in the work together to protect businesses from digital risk. Coalition’s exceptional growth stems from its ability to address real-world problems for organizations of all sizes while remaining true to our founding values of character, humility, responsibility, purpose, authenticity, and inclusion.
+
+We’re always looking for collaborative, inquisitive individuals to join #OurCoalition.
+
+Visit our Newsroom > 
+
+Privacy Notice
+
+Coalition is committed to protecting your privacy and handling your personal information responsibly. We collect, use, and store personal information as necessary for the recruitment process and in compliance with applicable privacy laws and regulations in all regions where we operate. We want you to understand what personal information we collect, how we use it, and your rights regarding access, correction, and deletion of your data where applicable. Information submitted, collected, and processed as part of your application is subject to Coalition's Privacy Policy. For further details, please review our full Privacy Policy or contact us with any questions regarding h

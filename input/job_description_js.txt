@@ -1,0 +1,8 @@
+Job Title: Senior JavaScript Engineer
+
+We are seeking an experienced JavaScript Engineer to build world-class web applications. You will work with a team of talented developers to design and implement new features.
+
+Requirements:
+- 5+ years of professional software development experience
+- Deep expertise in JavaScript, HTML, and CSS
+- Experience with modern frameworks like React, Vue, or Angular

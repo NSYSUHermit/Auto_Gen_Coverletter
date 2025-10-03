@@ -1,0 +1,17 @@
+Subject: Application for Software Engineer – John Doe
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Software Engineer position at Coalition, which I found advertised on [Platform where you saw the ad – e.g., your company website, LinkedIn]. My five years of professional experience in software engineering, including my current role as Senior Software Engineer, align very well with the requirements you have outlined for this role.
+
+I am particularly drawn to Coalition's mission to prevent digital risk through "Active Insurance" and your commitment to engineering excellence. As a highly skilled and motivated software engineer, I have dedicated my career to developing, testing, and deploying robust web applications. I have gained considerable proficiency in Python, which I understand is a key language for your backend services, and I am comfortable designing systems that manage complex business rules, ensuring all logic branches are well-understood and thoroughly tested. My focus has always been on creating reliable and high-quality software.
+
+In my experience, I have successfully built high-quality APIs and web services, aiming for interfaces that are joyful to consume and whose lifecycle events are clear to all stakeholders. My background includes working with modern development fundamentals such as container-based deployment with Docker and effective use of source control, specifically Git. I also possess experience collaborating within agile teams, utilizing tools for effective development, and working with cross-functional stakeholders to translate business requirements into actionable plans. These skills make me confident in my ability to contribute effectively to your Renewals Engineering Team.
+
+I understand that the Renewals Engineering Team plays a crucial role in increasing renewal rates and ensuring a seamless, hassle-free experience for clients by leveraging advanced technologies and data analytics. I am eager to apply my expertise in developing scalable and efficient solutions to help craft personalized insurance solutions and proactively address client needs, thereby solidifying Coalition's leadership in cyber insurance services.
+
+Thank you for considering my application. I am very eager to bring my expertise to Coalition and join a team that is dedicated to protecting businesses from digital risk. I am available for an interview at your earliest convenience to discuss how my qualifications can benefit Coalition.
+
+Sincerely,
+
+John Doe
